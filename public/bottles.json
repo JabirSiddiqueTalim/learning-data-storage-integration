@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "name": "Aqua Fresh Bottle",
+    "brand": "FreshLife",
+    "price": 250,
+    "capacity_ml": 750,
+    "color": "Blue"
+  },
+  {
+    "id": 2,
+    "name": "Steel Pro Bottle",
+    "brand": "HydroMax",
+    "price": 850,
+    "capacity_ml": 1000,
+    "color": "Silver"
+  },
+  {
+    "id": 3,
+    "name": "Kids Cartoon Bottle",
+    "brand": "FunSip",
+    "price": 300,
+    "capacity_ml": 500,
+    "color": "Pink"
+  },
+  {
+    "id": 4,
+    "name": "Thermal Travel Bottle",
+    "brand": "HeatLock",
+    "price": 1200,
+    "capacity_ml": 900,
+    "color": "Black"
+  },
+  {
+    "id": 5,
+    "name": "Eco Glass Bottle",
+    "brand": "GreenDrop",
+    "price": 600,
+    "capacity_ml": 750,
+    "color": "Transparent"
+  }
+]

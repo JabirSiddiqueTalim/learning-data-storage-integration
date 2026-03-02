@@ -1,42 +1,52 @@
 [
   {
     "id": 1,
-    "name": "Aqua Fresh Bottle",
+    "name": "Plastic Water Bottle",
+    "type": "Plastic",
     "brand": "FreshLife",
     "price": 250,
     "capacity_ml": 750,
-    "color": "Blue"
+    "color": "Blue",
+    "image": "../src/assets/image/bottle3.jpeg"
   },
   {
     "id": 2,
-    "name": "Steel Pro Bottle",
+    "name": "Stainless Steel Bottle",
+    "type": "Stainless Steel",
     "brand": "HydroMax",
     "price": 850,
     "capacity_ml": 1000,
-    "color": "Silver"
+    "color": "Silver",
+    "image": "../src/assets/image/images4.jpeg"
   },
   {
     "id": 3,
     "name": "Kids Cartoon Bottle",
+    "type": "Kids",
     "brand": "FunSip",
     "price": 300,
     "capacity_ml": 500,
-    "color": "Pink"
+    "color": "Pink",
+    "image": "https://images.unsplash.com/photo-1602143407151-7111542de6e8?auto=format&fit=crop&w=500&q=60"
   },
   {
     "id": 4,
-    "name": "Thermal Travel Bottle",
+    "name": "Insulated Thermal Bottle",
+    "type": "Thermal",
     "brand": "HeatLock",
     "price": 1200,
     "capacity_ml": 900,
-    "color": "Black"
+    "color": "Black",
+    "image": "../src/assets/image/bottle2.jpeg"
   },
   {
     "id": 5,
-    "name": "Eco Glass Bottle",
+    "name": "Glass Water Bottle",
+    "type": "Glass",
     "brand": "GreenDrop",
     "price": 600,
     "capacity_ml": 750,
-    "color": "Transparent"
+    "color": "Transparent",
+    "image": "../src/assets/image/Awyhkwk2cpOLkoVkKCl8fsQ5XM8Jd63szYGUMrhq.webp"
   }
 ]

@@ -1,0 +1,14 @@
+.card
+{
+  border: 6px solid rgb(139, 156, 28);
+  border-radius: 5px;
+  padding: 5px;
+  margin: 5px;
+}
+.bottle-img
+{
+
+  height: 300px;
+  width:300px;
+
+}

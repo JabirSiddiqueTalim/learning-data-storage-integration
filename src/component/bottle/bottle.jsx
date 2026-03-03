@@ -18,7 +18,7 @@ const Bottle = ({bottle, handleBottle}) => {
 
       <div className={`card && ${buy && 'buy-card'}`}>
         <h3>Bottle : {bottle.id}</h3>
-        <h4>Bottle Name : {bottle.name}</h4>
+        <h4 className='white'> Bottle Name : {bottle.name}</h4>
         <h4>Bottle Type : {bottle.type}</h4>
         <img className="bottle-img"src={bottle.image} alt="" />
         <h4>Bottle price : {bottle.price}</h4>
